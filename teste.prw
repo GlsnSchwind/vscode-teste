@@ -1,4 +1,4 @@
-Setar usu醨io
+Setar usu谩rio
 git config --global user.name "Leonardo Comelli"
 
 Setar email
@@ -6,17 +6,17 @@ git config --global user.email leonardo@software-ltda.com.br
 
 
 
-Criar novo reposit髍io
+Criar novo reposit贸rio
 git init
 
 
-Verificar estado dos arquivos/diret髍ios
+Verificar estado dos arquivos/diret贸rios
 git status
 
-Adicionar um arquivo em espec韋ico
+Adicionar um arquivo em espec铆fico
 git add meu_arquivo.txt
 
-Adicionar todos os arquivos/diret髍ios
+Adicionar todos os arquivos/diret贸rios
 git add .	
 
 
@@ -27,16 +27,16 @@ Remover arquivo
 git rm meu_arquivo.txt
 
 
-Exibir hist髍ico
+Exibir hist贸rico
 git log
 
+test
 
-
-O primeiro push de um reposit髍io deve conter o nome do reposit髍io remoto e o branch.
+O primeiro push de um reposit贸rio deve conter o nome do reposit贸rio remoto e o branch.
 git push -u origin master
 
 
-Os demais pushes n鉶 precisam dessa informa玢o
+Os demais pushes n茫o precisam dessa informa莽茫o
 git push
 
 
@@ -55,3 +55,5 @@ git merge bug-123
 
 Listar branches
 git branch
+
+--Testando--
